@@ -1,0 +1,21 @@
+
+.text-center {
+	text-align: center;
+}
+
+.container {
+	padding: 0 1%;
+}
+
+.jumbotron {
+	margin-top: 4%;
+}
+
+.btn-h1-spacing {
+	margin-top: 1.2rem;
+}
+
+
+footer {
+	padding: 2%;
+}
