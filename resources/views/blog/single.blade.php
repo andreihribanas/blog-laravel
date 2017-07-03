@@ -8,6 +8,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-8 offset-md-2">
+
 				{{ Html::image('images/' . $post->image, 'The image does not exist') }}
 				<h1> {{ $post->title }} </h1>	
 				<p> {!! $post->body !!} </p>

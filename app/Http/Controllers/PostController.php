@@ -13,7 +13,7 @@ use Purifier;
 use Image;
 use Storage;
 
-class PostController extends Controller
+class PostController extends Controller 
 {
 
     public function __construct(){
