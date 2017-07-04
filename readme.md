@@ -9,12 +9,24 @@
 
 # Project description
 
-A representation of a basic blog project written mainly in PHP using the Laravel framework, HTML & CSS, JavaScript.
+A representation of a basic blog project written in PHP using the Laravel framework, HTML & CSS, JavaScript.
 
 
 # Project main features
 
+- User login and register features;
 - Categories management (CRUD);
 - Tags management (CRUD);
-- Posts management (CRUD), assigning posts to categories and aassigning tags;
+- Posts management (CRUD);
+- Assign categories and tags to posts;
+- Post comments management;
+- View posts sorted by tags;
+- Image uploads using Laravel Image Intervention package;
+- Sending emails from contact form;
+- Posts pagination;
+- JavaScript validation using Parsley.js library;
 - User profile management.
+
+# Future work
+
+Customize blog features to be adapted and integrated into the personal web portfolio.
